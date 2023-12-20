@@ -1,0 +1,35 @@
+Loaded graph
+Converted to CSR
+Relabeling graph
+Creating DAG
+Counting 3-vertex
+Counting 4-vertex
+Getting easy four vertex patterns
+Getting four cycles
+Getting four cliques
+==============
+Basic size
+==============
+Vertices	 6
+Edges		 12
+==============
+3 vertex patterns
+==============
+Ind set		 20 0 0.00
+Only edge	 24 18 0.75
+Wedge		 6 0 0.00
+Triangle	 2 2 1.00
+==============
+4 vertex patterns
+==============
+Ind set		 15 0 0.00
+Only edge	 36 0 0.00
+Matching	 9 9 1.00
+Only wedge	 18 0 0.00
+Only triangle	 6 6 1.00
+3-star		 0 0 -
+3-path		 0 0 -
+Tailed triangle	 0 0 -
+4-cycle		 0 0 -
+Diamond		 0 0 -
+4-clique	 0 0 -
